@@ -1,4 +1,4 @@
 ﻿<?php
 
-return "ip";
+echo "ip";
 ?>
