@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 
-echo "ip";
+print "ip";
 ?>
